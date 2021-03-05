@@ -47,6 +47,12 @@ Using M3 screws are somewhat important as these are the size needed to fit the m
 
 ## Files
 
+| File | Type | Description |
+| :-- | :-- | :-- |
+| [ring_v3.dxf](ring_v3.dxf) | DXF | Ring |
+| [ring_v3.svg](ring_v3.svg) | SVG | Ring |
+| [support_v3.dxf](support_v3.dxf) | DXF | Support Arm |
+| [support_v3.svg](support_v3.dxf) | SVG | Support Arm |
 
 ## Things to Note
 - by adding the halo you effect the weight and the balance of the router and sled.  If you make the halo too heavy and the router+sled  won't lean in to the cutting bed as much as needed
