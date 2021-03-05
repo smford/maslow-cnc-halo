@@ -60,6 +60,6 @@ Using M3 screws are somewhat important as these are the size needed to fit the m
 
 ## Credits
 - [Maslow CNC Parts List](https://github.com/MaslowCommunityGarden/Maslow-CNC-Kit/blob/master/BOM.md)
-- [Maslow Ring System Schematics](https://github.com/MaslowCommunityGarden/Maslow-Ring-System) and Specifically this file](https://codeload.github.com/MaslowCommunityGarden/Maslow-Ring-System/zip/master)
+- [Maslow Ring System Schematics](https://github.com/MaslowCommunityGarden/Maslow-Ring-System) and specifically this [file](https://codeload.github.com/MaslowCommunityGarden/Maslow-Ring-System/zip/master)
 
 
