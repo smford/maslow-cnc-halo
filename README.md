@@ -59,7 +59,7 @@ Using M3 screws are somewhat important as these are the size needed to fit the m
 - the length of the supports can be adjusted to suit your router
 
 ## Credits
-- Maslow CNC Parts List
-- Maslow CNC documents
+- [Maslow CNC Parts List](https://github.com/MaslowCommunityGarden/Maslow-CNC-Kit/blob/master/BOM.md)
+- [Maslow Ring System Schematics](https://github.com/MaslowCommunityGarden/Maslow-Ring-System) and Specifically this file](https://codeload.github.com/MaslowCommunityGarden/Maslow-Ring-System/zip/master)
 
 
