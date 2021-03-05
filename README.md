@@ -18,9 +18,11 @@ The hackspace has a maslow with a z-axis.  This sticks out the back of the route
 - 18 * M3 nyloc nuts
 - 12 * 4.0x30mm wood screws
 
-The thickness of the ply and the wood screw dimensions don't really matter.  Choose which works best for you.  Adjust the length of the button head screws to match the thickness of your support material.  I used 20mm because the material is 12mm, the thickness of the metal supports is another 5mm, and the nyloc nuts are 3mm; meaning 12+5+3 = 20mm
+The thickness of the ply and the wood screw dimensions don't really matter.  Choose which works best for you.  Adjust the length of the button head screws to match the thickness of your support material.
 
-Using M3 screws and nyloc nuts are somewhat important as these are the size needed to fit the metal frame.  Nyloc nuts are used to stop them working free.
+I used 20mm because the material is 12mm, the thickness of the metal supports is another 5mm, and the nyloc nuts are 3mm; meaning 12+5+3 = 20mm
+
+Using M3 screws are somewhat important as these are the size needed to fit the metal frame.  Nyloc nuts are used to stop the screws working free.
 
 
 ## My Build Instructions
@@ -38,6 +40,10 @@ Using M3 screws and nyloc nuts are somewhat important as these are the size need
 1. attach each ply support to the metal arms using 6 socket button head screws and the nyloc nuts
 1. attach the first ring using the wood screws to each support arm, its exact position will depend on which router
 1. attach the second ring to the end of the support arm
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smford/maslow-cnc-halo/master/images/support_attachment_areas.png" width="400">
+</p>
 
 ## Files
 
